@@ -1,2 +1,2 @@
-# COSC-1323
-Concepts 1 - Lab Assignments done for Concepts I
+# Concepts 1 
+Work done for COSC 1323 (Python)
